@@ -58,49 +58,8 @@ img {
     border: 8px solid #3b8761;
     border-radius: 15%;
 }
-.button {
-    display: inline-block;
-    text-align: center;
-    vertical-align: middle;
-    padding: 12px 24px;
-    border: 5px solid #ccd8d8;
-    border-radius: 100px;
-    background: #13575b;
-    background: -webkit-gradient(linear, left top, left bottom, from(#13575b), to(#e1f2e9));
-    background: -moz-linear-gradient(top, #13575b, #e1f2e9);
-    background: linear-gradient(to bottom, #13575b, #e1f2e9);
-    text-shadow: #591717 1px 1px 1px;
-    font: normal normal bold 20px comic sans ms;
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:hover,
-.button:focus {
-    background: #17686d;
-    background: -webkit-gradient(linear, left top, left bottom, from(#17686d), to(#ffffff));
-    background: -moz-linear-gradient(top, #17686d, #ffffff);
-    background: linear-gradient(to bottom, #17686d, #ffffff);
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:active {
-    background: #0b3437;
-    background: -webkit-gradient(linear, left top, left bottom, from(#0b3437), to(#e1f2e9));
-    background: -moz-linear-gradient(top, #0b3437, #e1f2e9);
-    background: linear-gradient(to bottom, #0b3437, #e1f2e9);
-}
-.button:before{
-    content:  "\0000a0";
-    display: inline-block;
-    height: 24px;
-    width: 24px;
-    line-height: 24px;
-    margin: 0 4px -6px -4px;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAADZklEQVRIiZ1VbUxTVxh+zr211CqKzCqWaaJdQf2h042L2wxkUS8q4XZGRRNdpixLiPHHksVo9IcmQ7P5xyz7tbBkMcTNxK9YooGKBhAHq4iKClRWPpRLgYFKsb23l/ae/dBWqbdfvslN3vOe8z7PeZ6cew7BewTHCwyAtQCKAEgqCVS01tZqrmVSBc/jbQb9NPbM1vXLG345tOnw7HTDrljgAKBLlYBlcPRg2dqdxQVWdPc/g/dloDXe+pQUcLzNsMI6f39xgRWyEsSpqmaFUnoqXk+KCtRF6TPSZl660YWLdZ0vuvvHvnM67G3xOkgq8Hm8YCRAOYBRAFedDvtooh5NAo4X9AD2Z87J+OZD84KlVFXVJ6KnY9zrrQTgYFnmoDkra/PczDlmn9/v7X8qNgUU5edMRmmqqamJz8jxgrFQKL12zn6FynKAqqpKVVWlPr+fnj57nn697/vA3QePaCikRuYGh4bpgWMnJjle2JPQBo4XjlfX1lFKKVVVlYYjnAeDQc26oii0/MARH8cLOW/j6aLAZy3Pte7bvP7LV/6RNw6Gc5Zlp3r8un7n/kOIg55BABkxCQAUFH6+JoMQAkppQrXheOzuxaGKn+olSbY5HXbv23PR/8GKZdaPQAiJ7CyZvLLqz6AkyXujwbUIsueZPogMtCyKzicng7j/qKvN6bD3aamLtsiYptenZE8wFEQoFPLHmo9W4JdkOSWLphsMyF4wf3VeUYkxGYJe0TMUGSRjESEEpV+VzGIo82M+L7xDMOXMZVtymSyTqSxv1cpYijUjx7IY3omX+Z3d/1rMS3LaRbfruSaB2bJ0yDsx8e2W4o3pLMtEdpiMXZ99uprodLqVrffax0W3qz6MOcWi247LSt/Tgd8bmls0rYiXU0px5167DOCPuHK5DULmtrJyj8/nj9w1yXzXGm7S/CLbO28DG10Qe1zSTJO51zMysqPwizVgGCahRQODHhyuONkhyYHdotsViEsAAKLb1SmzBskzPLIu/5OPyTSdLqZFPf1P8MPR4wPD/41udDrsnoQKwrHQknPrcU9fX2OLszBNr5/OEILG5n9QWfUXsuaZ8PzFOC5UX8XJX3+rHx0bszkd1T1aOAlfNI4vmQuQUgIso4ALwN8AtuPVAbnOENS11NrVWP3/A72zrku3Zi2HAAAAAElFTkSuQmCC") no-repeat left center transparent;
-    background-size: 100% 100%;
+#dash {
+    color: #5a7a6a
 }
 .button {
     display: inline-block;
