@@ -20,11 +20,11 @@ h2 {
 #head-title {
     color: white;
 }
-ul {
+.links {
     padding: 10px;
     background: rgba(5, 5, 5, 0.50);
 }
-li {
+.item {
     display: inline;
     padding: 0px 10px 0px 10px;
 }
